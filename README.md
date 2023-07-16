@@ -17,7 +17,7 @@ jobs:
     name: "Fetch"
     steps:
       - name: "github"
-        uses: ghastore/api-github@main
+        uses: ghastore/github-api@main
         with:
           git_repo: "${{ github.server_url }}/${{ github.repository }}.git"
           git_user: "${{ secrets.USER_NAME }}"

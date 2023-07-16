@@ -3,7 +3,7 @@ FROM alpine
 LABEL "name"="GitHub API Fetch"
 LABEL "description"="GitHub Action to get GitHub API responses and save them to repository."
 LABEL "maintainer"="iHub TO <mail@ihub.to>"
-LABEL "repository"="https://github.com/ghastore/api-github"
+LABEL "repository"="https://github.com/ghastore/github-api"
 LABEL "homepage"="https://github.com/ghastore"
 
 COPY *.sh /
