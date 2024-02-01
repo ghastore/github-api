@@ -1,5 +1,5 @@
 name: "GitHub API Fetch"
-author: "iHub TO <mail@ihub.to>"
+author: "Kai Kimera <mail@kai.kim>"
 description: "GitHub Action to get GitHub API responses and save them to repository."
 branding:
   icon: "anchor"
